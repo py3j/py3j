@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @py3j
 - 👀 I’m interested in ... Future
 - 🌱 I’m currently learning ... Everything
-- 💞️ I’m looking to collaborate on ... Ai, Blockchain, 
+- 💞️ I’m looking to collaborate on ... Ai, Blockchain, IoT, XR
 - 📫 How to reach me ... @3esco_
 
 <!---
